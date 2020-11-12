@@ -1,11 +1,11 @@
-# LinkScannPRO
+# LinkCatch
 Search engine for internal and external links within the website
 
 <h3> Mode Of Execution: </h3>
 
 * bash install.sh
 
-* python3 LinkScannPRO.py
+* python3 LinkCatch.py
 
 
 
